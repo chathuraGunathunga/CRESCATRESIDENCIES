@@ -1,0 +1,428 @@
+/* this is my custom CSS */
+html{
+  
+   background: url(../_images/sea_img.png)no-repeat;
+   
+}
+body{
+	width: 80%;
+	margin: 0 auto;
+	background: url(../_images/sea_img.png)no-repeat;
+}
+
+header{
+background: url(../_images/sea_img.png)no-repeat;
+}
+
+nav{
+	color: green;
+	font-style: italic;
+	font-weight: bold;
+}
+
+nav a:hover{
+	background: url(../_images/sea_img.png)no-repeat;
+}
+article{
+
+
+}
+aside{
+
+
+}
+.moas{
+
+border-left: 1em solid green;	
+
+}
+.datimdiv{
+	border-top: 0.1em solid green;
+	border-bottom: 0.1em solid green;
+	margin-top: 0em;
+	margin-left: 0em;
+	padding-top: 0em;
+	padding-bottom: 9em;
+	background: url(../_images/page_background.jpg)repeat;
+}
+.heading{
+	background: url(../_images/page_background.jpg)repeat;
+	border-top: 0.1em solid green;
+	border-bottom: 0.1em solid green;
+	margin-top: 6em;
+	color: black;
+
+}
+.calanderui{
+
+	margin-top: 1em;
+	background: url(../_images/page_background.jpg)repeat;
+}
+.reservation{
+
+	background: url(../_images/page_background.jpg)repeat;
+}
+.contactform{
+
+	
+	background: url(../_images/page_background.jpg)repeat;
+}
+.faciback{
+	background: url(../_images/page_background.jpg)repeat;
+}
+.apback{
+	background: url(../_images/page_background.jpg)repeat;
+}
+.apartinfo{
+margin-top: 1em;
+background: url(../_images/page_background.jpg)repeat;
+border-bottom: 0.1em solid green;
+}
+.apartinfohuse{
+	padding-top: 1em;
+background: url(../_images/page_background.jpg)repeat;
+
+}
+.painfa{
+border: 5px solid black;
+padding-left: 3em;
+padding-right:3em; 
+}
+.apainfoheding{
+border: 5px solid black;
+
+}
+.calanderufaility{
+
+	background: url(../_images/page_background.jpg)repeat;
+}
+.pheading{
+
+	border-top: 0.1em solid green;
+}
+.contactd{
+	margin-top: 0em;
+	padding-top :10px;
+	padding-bottom: 70px;
+	border-bottom: 5px solid green;
+
+}
+.companyaddress{
+		padding-bottom: 2em;
+		border-bottom: 0.2em solid green;
+		}
+.contactdfindaside{
+	padding-bottom: 4em;
+	
+}
+.contactdsrticle{
+
+	padding-bottom: 17em;
+
+}
+.feadback{
+	border: 5px solid black;
+}
+.facilities{
+
+	margin-top: 4em;
+	padding-bottom: 0.15em;
+	border-right: 0.1em solid green;
+}
+.facilitiesPool{
+	margin-top: 4em;
+	padding-bottom: 7.3em;
+	border-right: 0.1em solid green;
+}
+.facilitiesfitnessgym{
+
+	margin-top: 4em;
+	padding-bottom: 8.7em;
+	border-right: 0.1em solid green;
+}
+.facilitiesSpa{
+	margin-top: 4em;
+	padding-bottom: 1.8em;
+	
+}
+.superMarket{
+	background: url(../_images/page_background.jpg)repeat;
+}
+.superMarketinfo{
+	border-top: 0.1em solid green;
+}
+.superMarketinfonew{
+	padding-top: 3em;
+	border-top: 0.1em solid green;
+	padding-bottom: 3em;
+	border-right: 0.1em solid green;
+}
+.apartmentr{
+	margin-top: 3em;
+	padding-bottom: 3em;
+	border-right: 0.1em solid green;
+}
+.familyinfo{
+
+	border-top: 0.1em solid green;
+
+}
+.aprtmentki{
+
+
+}
+.familyinfonew{
+
+	padding-top: 3em;
+	border-top: 0.1em solid green;
+}
+.apartseu{
+
+	padding-top: 3em;
+	
+}
+.apartmentli{
+
+	padding-top: 3em;
+	
+}
+#companyInformation{
+
+	border-bottom: 0.1em solid green;
+}
+#contactus{
+
+	border-bottom: 0.1em solid green;
+}
+#findushere{
+
+	border-bottom: 0.1em solid green;
+}
+.maintopic{
+	color: green;
+}
+.maintopicin{
+
+	color:#ff5c33;
+}
+.bookapdate{
+
+color: green;
+}
+.glyphicon .glyphicon-certificate{
+	color: green;
+}
+.apartmet{
+	
+}
+.roomfacility{
+
+	border: 5px solid green;
+}
+.apartmetinfo{
+
+	border-top: 0.1em solid green;
+}
+.apartmetnew{
+
+	border-top: 0.1em solid green; 
+	border-right: 0.1em solid green;
+	padding-top: 3em;
+	padding-bottom: 2em;
+}
+.navbar {
+  position: relative;
+  z-index: 1000;
+  min-height: 0px;
+  margin:0px;
+  margin-left: 0px;
+  border: 0px solid transparent;
+}
+
+.nav-justified > .active > a,
+.nav-justified > .active > a:hover,
+.nav-justified > .active > a:focus {
+  color: #555555;
+  background: url(../_images/sea_img.png)no-repeat;
+}
+
+
+.nav-justified  a{
+font-size: 110%;
+background: url(../_images/page_background.jpg)repeat;
+}
+
+
+.centerNav{
+	padding-left: 5em
+}
+
+.artileStyl{
+
+	border-top: 1px solid green;
+	padding-bottom: 1em;
+}
+
+.line {
+
+
+	border-right: 3px solid green;
+
+}
+
+.aline{
+
+	border-left: 3px solid red;
+
+}
+
+.modal-header{
+
+	background: url(../_images/page_background.jpg)repeat;
+}
+.modal-footer{
+	background: url(../_images/page_background.jpg)repeat;
+}
+.modal-body{
+
+	background: gray;
+	
+}
+.modal-content{
+	background: gray;
+}
+.pic{
+
+	padding-left: 1em;
+	padding-right: 1em;
+}
+.maintopicarousel{
+	color: #4d1900;
+}
+.nav-justified {
+ padding-top: 2em;
+ padding-right: 3.4em;
+ padding-left: 3.4em;
+  width: 100%;
+}
+
+.container{
+
+	margin-top: 0em;
+	
+}
+footer {
+	padding : 2em 0;
+	margin-top: 3em 0;
+	border-top: 0.1em solid green;
+	color:black;
+	text-align: center;
+	background: url(../_images/page_background.jpg)repeat;
+
+
+}
+.pictime{
+
+	background-color: gray;
+	padding-top: 10em;
+	padding-bottom: 10em;
+}
+.glyphicon{
+
+	color:#3F2B22;
+}
+.glyphicon .glyphicon-certificate{
+	color: green;
+}
+.pull-right.img-responsive{
+
+	margin: 0 0 1em 1em;
+}
+
+
+
+.btn-info:hover,
+.btn-info:focus,
+.btn-info:active,
+.btn-info.active,
+.open .dropdown-toggle.btn-info {
+  color: #ffffff;
+  background-color: #3F2B22;
+  border-color: #333;
+}
+
+.panel-body{
+	color: white;
+	background: url(../_images/page_background.jpg)repeat;
+	border: 0.2em solid green;
+}
+.breadcrumb > li + li:before {
+  padding: 0 5px;
+  color: #cccccc;
+  content: none;
+}
+
+
+
+.tab-pane{
+
+	border-left: 1px solid #cdae51;
+	border-right: 1px solid #cdae51;
+	border-bottom: 1px solid #cdae51;
+	padding: 0.8em;
+}
+.active .glyphicon{
+
+	color:#cdae51;
+}
+
+aside div #galarry{
+
+	padding-top:3em;
+}
+
+aside div #galarry2{
+
+	padding-bottom: 2em;
+	border-bottom: 5em;
+	border-color: gray;
+}
+
+li {
+	list-style: none;
+}
+.thumbnail{
+	background-color: gray;
+	padding-left:0em;
+}
+
+#datetimepicker2{
+    background: white url(../_images/calendar.ico) right no-repeat;
+    padding-right: 17px;
+}
+
+#datetimepicker1{
+    background: white url(../_images/calendar.ico) right no-repeat;
+    padding-right: 17px;
+}
+.errors{
+
+	color: red;
+}
+.success{
+
+	color :green;
+}
+
+.successhead{
+
+	color:blue;
+}
+
+div.success{
+
+	padding: 1em;
+	border: 0.1em solid green;
+}
+
+

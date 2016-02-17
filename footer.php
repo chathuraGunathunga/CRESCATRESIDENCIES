@@ -1,0 +1,1 @@
+<p><small>© 2016 CRESCAT RESIDENCIES . All Rights Reserved | Created by H.M.C.I Gunathunga</small></p>
